@@ -1,7 +1,19 @@
-# quick_email_note
-Send an email from Android in 3 taps. Great for quick reminders, saves a lot of time on a long run.
+# Quick Email Widget
+[![N|Solid](https://github.com/alexsle/quick_email_note/blob/master/quick_email_note_sceenshot.png)]
 
-1. Install the app https://play.google.com/store/apps/details?id=com.llamalab.automate
-2. Import "quick_email_note.flo"
-3. Replace smtp, port, login credentials, message text, etc. with your data
-4. Create an "Automate" widget icon on the homescreen for the flow
+# About:
+
+The flow for the [Automate App](https://play.google.com/store/apps/details?id=com.llamalab.automate) for Android.
+
+# Features:
+
+Quick and easy way to send yourself an email from a phone. 
+
+Great for saving notes and reminders in your mailbox.
+
+## Installation:
+
+- Install the [Automate Application](https://play.google.com/store/apps/details?id=com.llamalab.automate)
+- Import the "quick_email_note.flo"
+- Replace smtp, port, and login credentials with yours
+- Create an "Automate" widget icon on the homescreen for the flow
