@@ -1,5 +1,5 @@
 # Quick Email Widget
-[![N|Solid](https://github.com/alexsle/quick_email_note/blob/master/quick_email_note_sceenshot.png)]
+![N|Solid](https://github.com/alexsle/quick_email_note/blob/master/quick_email_note_sceenshot.png)
 
 # About:
 
