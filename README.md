@@ -3,7 +3,7 @@
 
 # About:
 
-The flow for the [Automate App](https://play.google.com/store/apps/details?id=com.llamalab.automate) for Android.
+Email Sender flow for the [Automate App](https://play.google.com/store/apps/details?id=com.llamalab.automate) for Android.
 
 # Features:
 
